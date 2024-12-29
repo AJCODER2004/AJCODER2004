@@ -1,10 +1,12 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **AJCODER2004/AJCODER2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+-->
+# 💫 About Me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# 💫 About Me:
 Graphic Design & Software Engineering Student<br>Passionate about:<br>Creativity<br>Coding<br>Problem-solving<br>Dedicated to learning and growing every day 🌟
 
 
